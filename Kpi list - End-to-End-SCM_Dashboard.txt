@@ -1,0 +1,19 @@
+ KPI's Implemented
+1. Total Sales(MTD,QTD,YTD)
+2. Product Wise Sales
+3. Sales Growth 
+4. Daily Sales Trend
+5. State Wise Sales
+6. Top 5 Store Wise Sales
+7. Region Wise Sales 
+8. Purchase Method Wise Sales
+9. Customer Spend Per Region
+10.Inventory TurnOver Ratio
+11. Profit Margin
+
+**** KPI are not limited only to above , Can experiment on the other KPI as well.
+Such as; 
+1. Over stock, Out Stock , Under stock:
+	(In-stock = Inventory in hand >= 0,
+	 Out-of-stock = Inventory in hand < 0,
+	 Under-stock = Inventory in hand < Stock quantity)
